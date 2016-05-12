@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidActivityLifeCycle</string>
+    <string name="activity">Go through logcat</string>
+</resources>
